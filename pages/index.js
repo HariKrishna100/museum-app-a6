@@ -6,7 +6,7 @@
  *
 * Name: Harikrishna Paresh Patel Student ID: 150739217 Date: 03/08/23
 *
-* netlify App (Deployed) Link: _____________________________________________________
+* netlify App (Deployed) Link: https://bucolic-caramel-deeffa.netlify.app/
  *
  ********************************************************************************/
 import React from 'react';
