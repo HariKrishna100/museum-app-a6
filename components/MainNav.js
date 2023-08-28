@@ -60,7 +60,7 @@ export default function MainNav() {
       >
         <Container>
           <Navbar.Brand style={{ color: "#FFFFFF" }}>
-            Harikrishna Patel
+            Metropolitan Museum App
           </Navbar.Brand>
           <Navbar.Toggle
             aria-controls="navbarScroll"
